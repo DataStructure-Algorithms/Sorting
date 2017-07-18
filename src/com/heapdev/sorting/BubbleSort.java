@@ -2,7 +2,8 @@ package com.heapdev.sorting;
 
 /**
  * 
- * Bubbe sort is very impractical in use. The Time complexity is O(N^2)
+ * Bubbe sort is very impractical in use. The Time complexity is O(N^2). But
+ * this is in-place sorting algorithm. No extra space is required.
  * 
  * @author singh09.abhinav@gmail.com
  *
